@@ -1,6 +1,9 @@
 ## OSX artifacts
 .DS_Store
 
+[Dd]ebug/
+[Rr]untime/
+
 ## Dear ImGui artifacts
 imgui.ini
 
